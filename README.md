@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Abdullah Abid aka ABID KHAN 👋 </h1>
 <h3 align="center">🚀 Full Stack Developer | Python Django | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://img.freepik.com/free-photo/rear-view-progr…cfe6cd66e5f1ba44785881fa0aa258342daa9e90e793b86d3" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="[https://img.freepik.com/free-photo/rear-view-progr…cfe6cd66e5f1ba44785881fa0aa258342daa9e90e793b86d3](https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png)" />
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
