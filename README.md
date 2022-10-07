@@ -14,9 +14,6 @@
 </div> 
 </div>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
