@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Python Django | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://img.freepik.com/free-photo/rear-view-progr…cfe6cd66e5f1ba44785881fa0aa258342daa9e90e793b86d3" />
+_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
