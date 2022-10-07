@@ -6,7 +6,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🌳 Back end developer at [Ownsoft Tech](https://github.com/OwnSoft-Tech)
+  - 🌳 &nbsp; Back end developer at [Ownsoft Tech](https://github.com/OwnSoft-Tech)
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Full-Stack Developement.
