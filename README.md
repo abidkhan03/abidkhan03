@@ -15,8 +15,9 @@
 </div>
 <div>
   ![Abid Khan's github stats](https://github-readme-stats.vercel.app/api?username=abidkhan03&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan03&layout=compact&theme=radical)
+  
  </div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan03&layout=compact&theme=radical)
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
