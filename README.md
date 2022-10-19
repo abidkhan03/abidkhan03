@@ -13,7 +13,7 @@
   - ✍️ &nbsp; Pursuing Competitive Programming as hobbies/side hustles.  
 </div> 
 </div>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan03&langs_count=10&theme=tokyonight&layout=compact" alt="abidkhan03 :: Top Langs" /></p>
 <div>
   
   <p>![Abid Khan's github stats](https://github-readme-stats.vercel.app/api?username=abidkhan03&show_icons=true&theme=radical)</p>
