@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Abdullah Abid aka  ABID KHAN 👋 </h1>
-# 💫 About Me:
+## 💫 About Me:
 🌳   Full Stack developer at Ownsoft Tech<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   I’m currently working on Full Stack Development projects.<br>🌱   Learning more about Full-Stack Development.<br>✍️   Pursuing Competitive Programming as hobbies/side hustles.
 
 
