@@ -2,7 +2,7 @@
 
 ### 💫About Me:
 
-🌳   Full Stack developer at Ownsoft Tech<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   I’m currently working on Full Stack Development projects.<br>🌱   Learning more about Full-Stack Development.<br>✍️   Pursuing Competitive Programming as hobbies/side hustles.
+🌳   Software Engineer at Datum Brain<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   I’m currently working on Full Stack Development projects.<br>🌱   Learning more about Full-Stack Development.<br>✍️   Pursuing Competitive Programming as hobbies/side hustles.
 
 
 ## 🌐 Socials:
